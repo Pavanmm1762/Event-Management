@@ -89,11 +89,13 @@ Create Event:
 
 `500 Internal Server Error`: Server encountered an unexpected error
 
-## Conclusion  
-The Event Management System provides a robust solution for organizing and managing events, integrating weather information to enhance event planning. With its RESTful API and MongoDB database, the system offers scalability and flexibility to meet diverse event management needs.
-
 ## Deployment
 
 The API is deployed on Render and can be accessed at the following link:
 
 [Event Management API](https://event-management-xgdg.onrender.com/events/find?sourceLatitude=40.7128&sourceLongitude=-74.0060&searchDate=2024-03-15)
+
+## Conclusion  
+The Event Management System provides a robust solution for organizing and managing events, integrating weather information to enhance event planning. With its RESTful API and MongoDB database, the system offers scalability and flexibility to meet diverse event management needs.
+
+
